@@ -1,6 +1,6 @@
 ## Nice to see you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Raul Galvez, a Senior studying Computer Science and Electrical and Computer Engineering at [Duke Univeristy](https://duke.edu/). I am currently a member of the Computer Science subteam in the Duke Robotics Club where we build AUVs anually. I love learning about different fields of Software and Hardware, especially Robotics, Machine Learning, and Front-end Development.
+I am Raul Galvez, a Master's candidate studying Computer Engineering at the [University of Texas at San Antonio](https://www.utsa.edu/). I have a Bachelor's in Electrical and Computer Engineering, a Bachelor's in Computer Science, and a certificate in Robotics & Automation from Duke University. I am a former member of the Computer Science subteam at the Duke Robotics Club, where AUVs are built anually. I love learning about different fields of Software and Hardware, especially Robotics, Machine Learning, and Front-end Development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-raulgalvezjr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulgalvezjr/)](https://www.linkedin.com/in/raulgalvezjr/)
 [![Outlook Badge](https://img.shields.io/badge/-raulgalvez10072@outlook.com-0078D4?style=flat-square&logo=maildotru&logoColor=white&link=mailto:raulgalvez10072@outlook.com)](mailto:raulgalvez10072@outlook.com)
